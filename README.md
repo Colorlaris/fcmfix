@@ -23,3 +23,5 @@ fcm是在Android中由google维护的一条介于google服务器与gms应用之�
 ### 已知问题
 
 - 非miui/hyperos/OxygenOS15/ColorOS15系统可能需要给予目标应用类似允许自启动的权限。
+
+a commit a day keeps your girlfriend away
